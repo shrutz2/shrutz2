@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there!<img src="https://media.tenor.com/images/c4f9807829ab85eaf07682511cf12a1c/tenor.gif" width="30px">
 
-<!--
-**shrutz2/shrutz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+Name =  "Shruti Vishwakarma"
+Interests = ["Competitive Coding", "Machine Learning", "Developing to solve real-world problems"]
+Languages = ["C++", "Python", "React", "Java"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  
+[![coding waifu x 1000](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ5cjF5d2dueGdqcXVjeXA0cjQ3NG5hd3ZteXN0NHl6M3ZiY2w1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif)]([[https://github.com/shrutz2])
+</div>
+
+
+### Connect with me:
+<div align=left>
+
+<a href="https://www.linkedin.com/in/shruti-v-193146271/" alt="Shruti Vishwakarma" | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+</div>
