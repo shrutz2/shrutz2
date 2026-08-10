@@ -3,7 +3,7 @@
 
 ```python
 Name =  "Shruti Vishwakarma"
-Interests = ["Competitive Coding", "Machine Learning", "Developing to solve real-world problems"]
+Interests = ["Backend Development", "Machine Learning", "Developing to solve real-world problems"]
 Languages = ["C++", "Python", "React", "Java"]
 ```
 
